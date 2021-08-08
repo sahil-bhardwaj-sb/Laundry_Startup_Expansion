@@ -25,6 +25,8 @@ Major Tableau concepts used:
 
 Cross Dataset joining
 Calculated Fields
+Maps
+Scatterplots
 Highlighting
 Clusters 
 Trendlines
