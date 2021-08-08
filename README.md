@@ -1,7 +1,5 @@
 # Laundry_Startup_Expansion
 
-# UK_Bank_Customers_Analysis
-
 You are a data scientist working for a laundry pick-up service startup. This is a relatively small company and they cannot compete with the big players
 in major cities. The company's strategy is to build a vast network in the smaller cities.
 
